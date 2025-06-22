@@ -1,1 +1,1 @@
-# .github-workflows-daily-commit.yml
+Add daily scheduled GitHub Action
