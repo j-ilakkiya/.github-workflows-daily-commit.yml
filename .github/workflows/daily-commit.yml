@@ -3,7 +3,8 @@ name: Daily Commit
 on:
   schedule:
     - cron: '25 4 * * *'  # runs daily at 04:25 UTC
-  workflow_dispatch:       # allows manual run from GitHub interface
+  workflow_dispatch:       # allows manual trigger
+
 
 jobs:
   daily-commit:
